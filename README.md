@@ -1,4 +1,4 @@
-# CS-200-WaTor
+#Java-WaTor
 A simulation of shark and fish populations in an environment based on http://home.cc.gatech.edu/biocs1/uploads/2/wator_dewdney.pdf
 
 This can read user input of a filename that you choose, which it would then find and parse through to load simulation parameters into the program. If you enter any parameters it'll ask you if you want to save them somewhere too. After the simulation ends it asks if you'd like to save the population chart to a file that you choose.
